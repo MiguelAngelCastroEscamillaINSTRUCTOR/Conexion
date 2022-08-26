@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: dimgray;
+    font-family: sans-serif;
+}
+.contenido{
+    margin: 150px auto;
+    width: 600px;
+    border: 1px solid slateblue;
+}
+.titulo{
+    font-weight: bold;
+}
+.dato{
+    color: white;
+}
